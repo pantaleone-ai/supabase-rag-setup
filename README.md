@@ -1,5 +1,7 @@
 # supabase-rag-setup
 
+## Copy and Paste into Supabase SQL Editor
+
 ```sql
 -- Enable the pgvector extension to work with embedding vectors
 create extension vector;
